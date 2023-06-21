@@ -1,7 +1,7 @@
 """Weave (Finnish: kutoa) annotated json code examples with fill-ins from and to markdown prose."""
 # [[[fill git_describe()]]]
-__version__ = '2023.6.17+parent.g290b9c34'
-# [[[end]]] (checksum: f906d477470ad7cc9067b497c89ebd43)
+__version__ = '2023.6.21+parent.090d802f'
+# [[[end]]] (checksum: b2d5ee748ed63dc0bc63eda72fbc118d)
 __version_info__ = tuple(
     e if '-' not in e else e.split('-')[0] for part in __version__.split('+') for e in part.split('.') if e != 'parent'
 )
