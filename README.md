@@ -16,7 +16,7 @@ Third party dependencies are documented in the folder [third-party](docs/third-p
 
 ## Documentation
 
-User and developer [documentation of vastaanottaa](https://codes.dilettant.life/docs/kutoa).
+User and developer [documentation of kutoa](https://codes.dilettant.life/docs/kutoa).
 
 ## Bug Tracker
 
