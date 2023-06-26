@@ -6,13 +6,11 @@ Weave (Finnish: kutoa) annotated json code examples with fill-ins from and to ma
 
 Third party dependencies are documented in the folder [third-party](docs/third-party/README.md).
 
-<!--
 [![version](https://img.shields.io/pypi/v/kutoa.svg?style=flat)](https://pypi.python.org/pypi/kutoa/)
 [![downloads](https://pepy.tech/badge/kutoa/month)](https://pepy.tech/project/kutoa)
 [![wheel](https://img.shields.io/pypi/wheel/kutoa.svg?style=flat)](https://pypi.python.org/pypi/kutoa/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/kutoa.svg?style=flat)](https://pypi.python.org/pypi/kutoa/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/kutoa.svg?style=flat)](https://pypi.python.org/pypi/kutoa/)
--->
 
 ## Bug Tracker
 
