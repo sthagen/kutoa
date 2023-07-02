@@ -26,6 +26,7 @@ with open('pyproject.toml', 'rt', encoding=ENCODING) as handle:
 if assumed is None:
     assumed = str(pathlib.Path.cwd().parent)
 
+
 def sbom_sha256():
     """Fill in the data."""
     with open(pathlib.Path('sbom', 'cdx.json.sha256'), 'rt', encoding=ENCODING) as handle:
