@@ -1,5 +1,7 @@
 site_name: Kutoa
 site_description: "Weave (Finnish: kutoa) annotated json code examples with fill-ins from and to markdown prose."
+docs_dir: ../docs
+site_dir: ../site
 
 theme:
   name: 'material'
