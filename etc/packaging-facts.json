@@ -1,0 +1,149 @@
+{
+  "info": {
+    "author": "",
+    "author_email": "Stefan Hagen <stefan@hagen.link>",
+    "bugtrack_url": null,
+    "classifiers": [
+      "Development Status :: 3 - Alpha",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: MIT License",
+      "Programming Language :: Python :: 3.10",
+      "Programming Language :: Python :: 3.12",
+      "Programming Language :: Python :: 3.9"
+    ],
+    "description": "# Kutoa\n\nWeave (Finnish: kutoa) annotated json code examples with fill-ins from and to markdown prose.\n\n[License: MIT](https://git.sr.ht/~sthagen/kutoa/tree/default/item/LICENSE)\n\nThird party dependencies are documented in the folder [third-party](docs/third-party/README.md).\n\n<!--\n[![version](https://img.shields.io/pypi/v/kutoa.svg?style=flat)](https://pypi.python.org/pypi/kutoa/)\n[![downloads](https://pepy.tech/badge/kutoa/month)](https://pepy.tech/project/kutoa)\n[![wheel](https://img.shields.io/pypi/wheel/kutoa.svg?style=flat)](https://pypi.python.org/pypi/kutoa/)\n[![supported-versions](https://img.shields.io/pypi/pyversions/kutoa.svg?style=flat)](https://pypi.python.org/pypi/kutoa/)\n[![supported-implementations](https://img.shields.io/pypi/implementation/kutoa.svg?style=flat)](https://pypi.python.org/pypi/kutoa/)\n-->\n\n## Documentation\n\nUser and developer [documentation of vastaanottaa](https://codes.dilettant.life/docs/kutoa).\n\n## Bug Tracker\n\nAny feature requests or bug reports shall go to the [todos of kutoa](https://todo.sr.ht/~sthagen/kutoa).\n\n## Primary Source repository\n\nThe main source of `kutoa` is on a mountain in central Switzerland.\nWe use distributed version control (git).\nThere is no central hub.\nEvery clone can become a new source for the benefit of all.\nThe preferred public clones of `kutoa` are:\n\n* [on codeberg](https://codeberg.org/sthagen/kutoa) - a democratic community-driven, non-profit software development platform operated by Codeberg e.V.\n* [at sourcehut](https://git.sr.ht/~sthagen/kutoa) - a collection of tools useful for software development.\n\n## Contributions\n\nPlease do not submit \"pull requests\" (I found no way to disable that \"feature\" on GitHub).\nIf you like to share small changes under the repositories license please kindly do so by sending a patchset.\nYou can either send such a patchset per email using [git send-email](https://git-send-email.io) or\nif you are a sourcehut user by selecting \"Prepare a patchset\" on the summary page of your fork at [sourcehut](https://git.sr.ht/).\n\n# Status\n\nExperimental.\n\n**Note** The default branch is `default`.\n",
+    "description_content_type": "text/markdown",
+    "docs_url": null,
+    "download_url": "",
+    "downloads": {
+      "last_day": -1,
+      "last_month": -1,
+      "last_week": -1
+    },
+    "home_page": "",
+    "keywords": "developer-tools,devops",
+    "license": "",
+    "maintainer": "",
+    "maintainer_email": "Stefan Hagen <stefan@hagen.link>",
+    "name": "kutoa",
+    "package_url": "https://pypi.org/project/kutoa/",
+    "platform": null,
+    "project_url": "https://pypi.org/project/kutoa/",
+    "project_urls": {
+      "Bug-Tracker": "https://todo.sr.ht/~sthagen/kutoa",
+      "Documentation": "https://codes.dilettant.life/docs/kutoa",
+      "Homepage": "https://git.sr.ht/~sthagen/kutoa",
+      "Source-Code": "https://git.sr.ht/~sthagen/kutoa",
+      "Test-Coverage": "https://codes.dilettant.life/coverage/kutoa"
+    },
+    "release_url": "https://pypi.org/project/kutoa/2023.6.21/",
+    "requires_dist": [
+      "msgspec (>=0.16.0)",
+      "black ; extra == 'dev'",
+      "coverage ; extra == 'dev'",
+      "hypothesis ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "pytest-flake8 ; extra == 'dev'",
+      "ruff ; extra == 'dev'"
+    ],
+    "requires_python": ">=3.9",
+    "summary": "Weave (Finnish: kutoa) annotated json code examples with fill-ins from and to markdown prose.",
+    "version": "2023.6.21",
+    "yanked": false,
+    "yanked_reason": null
+  },
+  "last_serial": 18596869,
+  "releases": {
+    "2023.6.21": [
+      {
+        "comment_text": "",
+        "digests": {
+          "blake2b_256": "db525269f723aeb9e4ee0fbd9779d20a7bbcc92d6ed612ec5e7263169615f0d6",
+          "md5": "c9b391045d304fd9a11a7fdc9d036fa9",
+          "sha256": "e665731dbc456a54ac9eaeb22e815e0c431a56cb79992abc28879933b6751eab"
+        },
+        "downloads": -1,
+        "filename": "kutoa-2023.6.21-py3-none-any.whl",
+        "has_sig": false,
+        "md5_digest": "c9b391045d304fd9a11a7fdc9d036fa9",
+        "packagetype": "bdist_wheel",
+        "python_version": "py3",
+        "requires_python": ">=3.9",
+        "size": 4254,
+        "upload_time": "2023-06-21T21:35:02",
+        "upload_time_iso_8601": "2023-06-21T21:35:02.327775Z",
+        "url": "https://files.pythonhosted.org/packages/db/52/5269f723aeb9e4ee0fbd9779d20a7bbcc92d6ed612ec5e7263169615f0d6/kutoa-2023.6.21-py3-none-any.whl",
+        "yanked": false,
+        "yanked_reason": null
+      },
+      {
+        "comment_text": "",
+        "digests": {
+          "blake2b_256": "f53a93d5d79c8cb585b3202f552d3dd4196b792bcc695b70b1cf49ab25c67494",
+          "md5": "65bb336cbcd6254d387f5943140089fc",
+          "sha256": "0e6cbf07390c9178f71b4591a55c98b7cd93ec3ca70b71aef1ff6049bac0cbf2"
+        },
+        "downloads": -1,
+        "filename": "kutoa-2023.6.21.tar.gz",
+        "has_sig": false,
+        "md5_digest": "65bb336cbcd6254d387f5943140089fc",
+        "packagetype": "sdist",
+        "python_version": "source",
+        "requires_python": ">=3.9",
+        "size": 4490,
+        "upload_time": "2023-06-21T21:35:04",
+        "upload_time_iso_8601": "2023-06-21T21:35:04.053663Z",
+        "url": "https://files.pythonhosted.org/packages/f5/3a/93d5d79c8cb585b3202f552d3dd4196b792bcc695b70b1cf49ab25c67494/kutoa-2023.6.21.tar.gz",
+        "yanked": false,
+        "yanked_reason": null
+      }
+    ]
+  },
+  "urls": [
+    {
+      "comment_text": "",
+      "digests": {
+        "blake2b_256": "db525269f723aeb9e4ee0fbd9779d20a7bbcc92d6ed612ec5e7263169615f0d6",
+        "md5": "c9b391045d304fd9a11a7fdc9d036fa9",
+        "sha256": "e665731dbc456a54ac9eaeb22e815e0c431a56cb79992abc28879933b6751eab"
+      },
+      "downloads": -1,
+      "filename": "kutoa-2023.6.21-py3-none-any.whl",
+      "has_sig": false,
+      "md5_digest": "c9b391045d304fd9a11a7fdc9d036fa9",
+      "packagetype": "bdist_wheel",
+      "python_version": "py3",
+      "requires_python": ">=3.9",
+      "size": 4254,
+      "upload_time": "2023-06-21T21:35:02",
+      "upload_time_iso_8601": "2023-06-21T21:35:02.327775Z",
+      "url": "https://files.pythonhosted.org/packages/db/52/5269f723aeb9e4ee0fbd9779d20a7bbcc92d6ed612ec5e7263169615f0d6/kutoa-2023.6.21-py3-none-any.whl",
+      "yanked": false,
+      "yanked_reason": null
+    },
+    {
+      "comment_text": "",
+      "digests": {
+        "blake2b_256": "f53a93d5d79c8cb585b3202f552d3dd4196b792bcc695b70b1cf49ab25c67494",
+        "md5": "65bb336cbcd6254d387f5943140089fc",
+        "sha256": "0e6cbf07390c9178f71b4591a55c98b7cd93ec3ca70b71aef1ff6049bac0cbf2"
+      },
+      "downloads": -1,
+      "filename": "kutoa-2023.6.21.tar.gz",
+      "has_sig": false,
+      "md5_digest": "65bb336cbcd6254d387f5943140089fc",
+      "packagetype": "sdist",
+      "python_version": "source",
+      "requires_python": ">=3.9",
+      "size": 4490,
+      "upload_time": "2023-06-21T21:35:04",
+      "upload_time_iso_8601": "2023-06-21T21:35:04.053663Z",
+      "url": "https://files.pythonhosted.org/packages/f5/3a/93d5d79c8cb585b3202f552d3dd4196b792bcc695b70b1cf49ab25c67494/kutoa-2023.6.21.tar.gz",
+      "yanked": false,
+      "yanked_reason": null
+    }
+  ],
+  "vulnerabilities": []
+}
