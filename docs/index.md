@@ -8,9 +8,9 @@ Weave (Finnish: kutoa) annotated json code examples with fill-ins from and to ma
 [![Configuration](badges/configuration-sbom.svg)](third-party/index.html)
 
 [![Version](https://img.shields.io/pypi/v/kutoa.svg?style=flat)](https://pypi.python.org/pypi/kutoa/)
-[![Downloads](docs/badges/downloads-per-month.svg)](https://pepy.tech/project/kutoa)
+[![Downloads](badges/downloads-per-month.svg)](https://pepy.tech/project/kutoa)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/kutoa.svg?style=flat)](https://pypi.python.org/pypi/kutoa/)
-[![Maintenance Status](docs/badges/commits-per-year.svg)](https://git.sr.ht/~sthagen/kutoa/log)
+[![Maintenance Status](badges/commits-per-year.svg)](https://git.sr.ht/~sthagen/kutoa/log)
 
 ## Bug Tracker
 
