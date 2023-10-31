@@ -7,7 +7,7 @@ Weave (Finnish: kutoa) annotated json code examples with fill-ins from and to ma
 [![Export Classification Control Number (ECCN)](badges/export-control-classification-number_eccn-ear99-neutral.svg)](https://git.sr.ht/~sthagen/kutoa/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
 [![Configuration](badges/configuration-sbom.svg)](third-party/index.html)
 
-[![Version](https://img.shields.io/pypi/v/kutoa.svg?style=flat)](https://pypi.python.org/pypi/kutoa/)
+[![Version](badges/latest-release.svg)](https://pypi.python.org/pypi/kutoa/)
 [![Downloads](badges/downloads-per-month.svg)](https://pepy.tech/project/kutoa)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/kutoa.svg?style=flat)](https://pypi.python.org/pypi/kutoa/)
 [![Maintenance Status](badges/commits-per-year.svg)](https://git.sr.ht/~sthagen/kutoa/log)
