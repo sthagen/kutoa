@@ -1,25 +1,37 @@
 {
   "total": {
-    "commits": 428,
-    "first_committed_at": "2023-11-25T20:55:39+00:00",
-    "last_committed_at": "2023-06-21T21:27:11+00:00",
-    "month_span_day_count": 156,
-    "year_span": 0.4273972602739726,
-    "commits_per_year": 1001,
-    "insertions_per_year": 18928.52564102564,
-    "deletions_per_year": 4803.49358974359,
-    "lines_per_year": 23732.01923076923,
-    "files_per_year": 1764.1666666666665,
-    "insertions_count": 8090,
-    "deletions_count": 2053,
-    "lines_count": 10143,
-    "files_count": 754,
-    "insertions_avg": 18.901869158878505,
-    "deletions_avg": 4.796728971962617,
-    "lines_avg": 23.69859813084112,
-    "files_avg": 1.7616822429906542
+    "commits": 432,
+    "first_committed_at": "2023-06-21T21:27:11+00:00",
+    "last_committed_at": "2023-11-25T22:07:46+00:00",
+    "month_span_day_count": 157,
+    "year_span": 0.4301369863013699,
+    "commits_per_year": 1004,
+    "insertions_per_year": 18831.210191082802,
+    "deletions_per_year": 4793.821656050955,
+    "lines_per_year": 23625.031847133756,
+    "files_per_year": 1759.904458598726,
+    "insertions_count": 8100,
+    "deletions_count": 2062,
+    "lines_count": 10162,
+    "files_count": 757,
+    "insertions_avg": 18.75,
+    "deletions_avg": 4.773148148148148,
+    "lines_avg": 23.52314814814815,
+    "files_avg": 1.7523148148148149
   },
   "commit_stats": {
+    "2023-11-25T22:07:46+00:00": {
+      "insertions": 3,
+      "deletions": 2,
+      "lines": 5,
+      "files": 1
+    },
+    "2023-11-25T21:29:23+00:00": {
+      "insertions": 7,
+      "deletions": 7,
+      "lines": 14,
+      "files": 2
+    },
     "2023-11-25T20:55:39+00:00": {
       "insertions": 3496,
       "deletions": 0,
@@ -3492,11 +3504,11 @@
       "files": 4
     },
     "2023-11-25": {
-      "commits": 4,
-      "insertions": 3574,
-      "deletions": 2,
-      "lines": 3576,
-      "files": 4
+      "commits": 6,
+      "insertions": 3584,
+      "deletions": 11,
+      "lines": 3595,
+      "files": 7
     }
   }
 }
