@@ -1,7 +1,7 @@
 {
   "kutoa": {
-    "version": "7.3.2",
-    "timestamp": "2023-12-02T15:22:04.711745",
+    "coverage_tool_version": "7.3.2",
+    "timestamp": "2023-12-02 15:57:03 +00:00",
     "branch_coverage": false,
     "show_contexts": true,
     "covered_lines": 0,
@@ -9,6 +9,22 @@
     "percent_covered": 0,
     "percent_covered_display": "0.00",
     "missing_lines": 17,
-    "excluded_lines": 0
+    "excluded_lines": 0,
+    "node_id": "c79891e5-aabf-3a83-95b9-588edcd8327f",
+    "nfiles": 3,
+    "files": [
+      "kutoa/__init__.py",
+      "kutoa/api.py",
+      "kutoa/cli.py"
+    ],
+    "blake3": "b88e847969abfe17fa4c063becf0d70f38987f9ae7551a7592650ed8d33af1c0",
+    "blake2": "3b8c9f069ce5ba514525da9d44e4060672666a00cdde26a9e83aa5cce3cc3098a11f7fd6883473c106ded11c53e04706a7dfcddb3087a740da39cd775c26fa9e",
+    "sha512": "6c4b6b13e54915bcd4cefe75fd6a1fc560fa32c51cd0f7326c25d3115f7f35276f7d36ea8ded8d7a6b4042718ff28753fa93f2af42166bb5d8932ae0e474e66c",
+    "sha384": "843019b7884162f9dc9ee98ef706cb8283abad7ae8d321915c439e2ffa3e7466c4ce12d3c3a64d3f6ddbddb530c0ef52",
+    "sha256": "92b105a3a95fcf8411ddb2fc462cb3d4776f1287c3485c67dbcc35afe63359ac",
+    "sha1": "18c89d9a3615928e7c4fd9a1396392f3fa1dc39b",
+    "md5": "5d0474f955bc47d4306a6045cb43c1ea",
+    "python_version": "3.11.4",
+    "entropy": 5.489052
   }
 }
