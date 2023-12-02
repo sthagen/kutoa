@@ -1,0 +1,14 @@
+{
+  "kutoa": {
+    "version": "7.3.2",
+    "timestamp": "2023-12-02T15:22:04.711745",
+    "branch_coverage": false,
+    "show_contexts": true,
+    "covered_lines": 0,
+    "num_statements": 17,
+    "percent_covered": 0,
+    "percent_covered_display": "0.00",
+    "missing_lines": 17,
+    "excluded_lines": 0
+  }
+}
