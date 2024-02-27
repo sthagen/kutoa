@@ -20,6 +20,7 @@
       "last_month": -1,
       "last_week": -1
     },
+    "dynamic": null,
     "home_page": "",
     "keywords": "developer-tools,devops",
     "license": "",
@@ -36,6 +37,7 @@
       "Source-Code": "https://git.sr.ht/~sthagen/kutoa",
       "Test-Coverage": "https://codes.dilettant.life/coverage/kutoa"
     },
+    "provides_extra": null,
     "release_url": "https://pypi.org/project/kutoa/2023.6.21/",
     "requires_dist": [
       "msgspec (>=0.16.0)",
