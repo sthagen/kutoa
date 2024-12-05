@@ -2,13 +2,8 @@
   "data": [
     {
       "category": "3.10",
-      "date": "2024-05",
-      "downloads": 40
-    },
-    {
-      "category": "3.10",
       "date": "2024-06",
-      "downloads": 219
+      "downloads": 171
     },
     {
       "category": "3.10",
@@ -33,17 +28,17 @@
     {
       "category": "3.10",
       "date": "2024-11",
-      "downloads": 186
+      "downloads": 242
     },
     {
-      "category": "3.11",
-      "date": "2024-05",
-      "downloads": 40
+      "category": "3.10",
+      "date": "2024-12",
+      "downloads": 32
     },
     {
       "category": "3.11",
       "date": "2024-06",
-      "downloads": 213
+      "downloads": 163
     },
     {
       "category": "3.11",
@@ -68,17 +63,17 @@
     {
       "category": "3.11",
       "date": "2024-11",
-      "downloads": 184
+      "downloads": 240
     },
     {
-      "category": "3.12",
-      "date": "2024-05",
-      "downloads": 40
+      "category": "3.11",
+      "date": "2024-12",
+      "downloads": 32
     },
     {
       "category": "3.12",
       "date": "2024-06",
-      "downloads": 210
+      "downloads": 162
     },
     {
       "category": "3.12",
@@ -103,7 +98,12 @@
     {
       "category": "3.12",
       "date": "2024-11",
-      "downloads": 184
+      "downloads": 240
+    },
+    {
+      "category": "3.12",
+      "date": "2024-12",
+      "downloads": 32
     },
     {
       "category": "3.9",
@@ -122,13 +122,8 @@
     },
     {
       "category": "null",
-      "date": "2024-05",
-      "downloads": 3
-    },
-    {
-      "category": "null",
       "date": "2024-06",
-      "downloads": 7
+      "downloads": 6
     },
     {
       "category": "null",
@@ -153,7 +148,12 @@
     {
       "category": "null",
       "date": "2024-11",
-      "downloads": 38
+      "downloads": 39
+    },
+    {
+      "category": "null",
+      "date": "2024-12",
+      "downloads": 2
     }
   ],
   "package": "kutoa",
